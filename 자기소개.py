@@ -1,0 +1,6 @@
+print(" ♥ 자기 소개 하기 ♥ ")
+school=input("학교는 : ")
+subject=input("학과는 : ")
+school_num=input("학번은 : ")
+name=input("이름은 : ")
+print(school,subject+"에","재학중인","\n"+school_num+"번",name+"입니다")
